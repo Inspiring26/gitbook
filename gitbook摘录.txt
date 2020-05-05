@@ -4,3 +4,4 @@ hotfix
 git log --oneline --decorate --graph --all
 创建一个新分支指针
 git merge hotfix 就和后续分支合并了，并且合并方式叫快进
+https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86
