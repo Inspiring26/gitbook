@@ -2,3 +2,4 @@ Git 是怎么创建新分支的呢？ 很简单，它只是为你创建了一个
 Git 的分支实质上仅是包含所指对象校验和（长度为 40 的 SHA-1 值字符串）的文件，所以它的创建和销毁都异常高效。
 hotfix
 git log --oneline --decorate --graph --all
+git log --oneline --decorate --graph --all
